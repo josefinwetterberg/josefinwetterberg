@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Josefin.</h1>
 <h3 align="center">A creative student web developer, looking for an internship from nov 24th 2025!</h3>
 
-- 🔭 I’m currently working on [Iseed](https://github.com/josefinwetterberg/Iseed.git)
+- 🌱 I’m currently learning **typescript, react, node.js**
 
-- 🌱 I’m currently learning **laravel, wordpress, node.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/josefinwetterberg?tab=repositories](https://github.com/josefinwetterberg?tab=repositories)
+- 👨‍💻 My projects are available at [https://github.com/josefinwetterberg?tab=repositories](https://github.com/josefinwetterberg?tab=repositories)
 
 - 📫 How to reach me **josefin.wetterberg@gmail.com**
 
